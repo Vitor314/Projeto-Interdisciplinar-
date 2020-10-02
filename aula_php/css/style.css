@@ -1,0 +1,66 @@
+.navbar .centro{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.card input[type=submit]{
+	text-align: center;
+}
+
+.card h1{
+	font-size:2.5em;
+	text-align: center;
+}
+
+.card ul li{
+	font-size:1.5em;
+}
+
+li span {
+	font-weight: bold;
+}
+
+.container h1{
+	font-size:2em;
+	text-align: center;
+	width: 100%;
+}
+
+.container .card{
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.centro{
+	text-align: center;
+margin-right: auto;
+	margin-left: auto;
+}
+
+div .tam{
+	font-size: 120px;
+	color: #1E90FF;
+}
+
+i:hover{
+transform:rotate(20deg);
+}
+a:link{
+text-decoration: none;
+
+}
+
+.serv p{
+
+	font-size: 1.5em;
+}
+
+hr{
+	border-width: 15px;
+	border border-radius: 20px;
+}
+
+section{
+	margin-top: 30px;
+}
